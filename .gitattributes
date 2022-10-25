@@ -1,0 +1,3 @@
+# skip delta for binary
+**/*.jpeg binary -delta -diff
+**/*.jpg  binary -delta -diff
